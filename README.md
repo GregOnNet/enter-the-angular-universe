@@ -3,6 +3,10 @@
 Hier finden Sie alle Referenzen zum Webinar.
 http://developer-media.de/?course=enter-the-angular-universe
 
+## Slides
+
+- [Enter The Angular Universe](./slides/enter-the-angular-universe.pdf)
+
 ## Show me the Code
 
 - [Nx](https://github.com/GregOnNet/my-nx-workspace)
